@@ -1,0 +1,61 @@
+#image1 
+{
+width: 250px;
+}
+
+#image2
+{
+width: 250px;
+}
+
+#image3
+{
+width: 250px;
+height: 250px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1 
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 500;
+}
+
+h4 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 200;
+}
+
+#camera
+{
+    width: 450px;
+    height: 350px;
+    border-color: black;
+
+}
+
+#image1{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#image2{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#image3{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
